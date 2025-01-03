@@ -11,7 +11,7 @@ import Error404 from "./Screens/Error404";
 
 function App() {
   return (
-    <div className="text-light bg-light vh-100">
+    <div className="text-light vh-100">
       <BrowserRouter>
         <Header/>
           <Routes>
